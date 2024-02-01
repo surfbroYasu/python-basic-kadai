@@ -1,8 +1,8 @@
 list = ["水","金","地","火","木","土","天","海","冥"]
 
 
-for days in list: 
-  print(days)
+for solar_systems in list: 
+  print(solar_systems)
 
 print('')
 
